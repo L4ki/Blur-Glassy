@@ -15,8 +15,8 @@
    viewBox="0 0 312.32001 312.31998"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="scrollwidget.svgz">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="scrollwidget.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -131,20 +131,20 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49171495"
-     inkscape:cx="52.82973"
+     inkscape:cx="-315.26971"
      inkscape:cy="262.69309"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="-4"
+     inkscape:window-width="1280"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
@@ -168,19 +168,23 @@
     <sodipodi:guide
        position="12.800003,309.76"
        orientation="0,1"
-       id="guide4369" />
+       id="guide4369"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2.5600035,238.08"
        orientation="1,0"
-       id="guide4371" />
+       id="guide4371"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="309.76,125.44"
        orientation="1,0"
-       id="guide4373" />
+       id="guide4373"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="12.800003,2.56"
        orientation="0,1"
-       id="guide4375" />
+       id="guide4375"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
