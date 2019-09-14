@@ -14,3 +14,9 @@ ChangelogL 06.09.2019.
 Icons added: video.svg, vlc.svg
 
 Added widget: containment-controls.svg
+
+Changelog: 14.09.2019.
+----------------------
+
+
+Added widget: busywidget.svg
