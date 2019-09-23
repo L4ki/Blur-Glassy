@@ -18,5 +18,9 @@ Added widget: containment-controls.svg
 Changelog: 14.09.2019.
 ----------------------
 
-
 Added widget: busywidget.svg
+
+Changelog: 23.09.2019.
+---------------------
+
+Added widget: line.svg
