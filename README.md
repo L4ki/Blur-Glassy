@@ -24,3 +24,10 @@ Changelog: 23.09.2019.
 ---------------------
 
 Added widget: line.svg
+
+Changelog: 02.10.2019.
+---------------------
+
+Icon changed: media.svg
+
+Widgets correction: clock.svg, background.svg, button.svg
