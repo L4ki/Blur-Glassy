@@ -22,7 +22,7 @@
    sodipodi:version="0.32"
    id="svg2">
   <sodipodi:namedview
-     inkscape:window-height="968"
+     inkscape:window-height="977"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -34,7 +34,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2.6416933"
-     inkscape:cx="29.61306"
+     inkscape:cx="0.50734807"
      inkscape:cy="81.701512"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -12648,11 +12648,11 @@
        id="radialGradient10592-81-3-5-8-8">
       <stop
          offset="0"
-         style="stop-color:#fff"
+         style="stop-color:#3daee9;stop-opacity:1"
          id="stop34510-1-9-0-4-8-4-4" />
       <stop
          offset="1"
-         style="stop-color:#fff;stop-opacity:0"
+         style="stop-color:#1a82ae;stop-opacity:0.004"
          id="stop34512-4-5-4-2-9-4-7" />
     </radialGradient>
     <radialGradient
