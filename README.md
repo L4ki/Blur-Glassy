@@ -31,3 +31,8 @@ Changelog: 02.10.2019.
 Icon changed: media.svg
 
 Widgets correction: clock.svg, background.svg, button.svg
+
+Changelog: 09.10.2019.
+---------------------
+
+Icon added: preferences.svg
