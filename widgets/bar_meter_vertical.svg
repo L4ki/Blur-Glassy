@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 30 30"
    sodipodi:docname="bar_meter_vertical.svg"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata29">
     <rdf:RDF>
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="982"
+     inkscape:window-height="977"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="14.310216"
-     inkscape:cy="27.119512"
+     inkscape:cx="-4.439784"
+     inkscape:cy="12.119512"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,75 +64,75 @@
   <path
      id="bar-inactive-bottomright"
      d="m 14,17 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-right"
      d="m 14,15 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-topright"
      d="m 14,13 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-bottomleft"
      d="m 10,17 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-left"
      d="m 10,15 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-topleft"
      d="m 11,13 -1,0 0,1 1,0 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-bottom"
      d="m 12,17 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-center"
      d="m 13,15 -1,0 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-top"
      d="m 12,13 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#147ab1;fill-opacity:1;stroke:none" />
+     style="opacity:0.8;fill:#42afea;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-bottomright"
      d="m 14,26 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-right"
      d="m 14,24 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-topright"
      d="m 14,22 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-bottomleft"
      d="m 10,26 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-left"
      d="m 10,24 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-topleft"
      d="m 11,22 -1,0 0,1 1,0 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-bottom"
      d="m 12,26 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-center"
      d="m 13,24 -1,0 0,1 1,0 0,-1 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-top"
      d="m 12,22 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:0.8;fill:#becfd2;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#157db3;fill-opacity:1;stroke:none" />
   <rect
      id="hint-stretch-borders"
      width="1"
