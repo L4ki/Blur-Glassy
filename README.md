@@ -43,3 +43,10 @@ Changelog: 18.10.2019.
 Widgets correction: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 Added widget: action-overlay.svg
+
+Changelog: 15.12.2019.
+----------------------
+
+Redesigned Theme
+
+
