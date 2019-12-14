@@ -22,12 +22,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="10.311585"
-     inkscape:cx="28.294793"
+     inkscape:cx="9.2870459"
      inkscape:cy="23.605259"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -94,7 +94,7 @@
        y="2.0000052"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="fill:#147ab4;fill-opacity:1;stroke:none"
+       style="fill:#0b486d;fill-opacity:1;stroke:none"
        d="m 426.71431,529.79072 0,1 0,13.99999 0,1 4.99999,-2 4.99998,2 0,-1 0,-13.99999 0,-1 -9.99997,0 m 1,1 7.99997,0 0,13.5996 -3.99998,-1.59961 -3.99999,1.59961 0,-13.5996"
        id="rect4298"
        class="ColorScheme-Text" />
@@ -111,7 +111,7 @@
        y="-7.9999948"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="fill:#147ab4;fill-opacity:1;stroke:none"
+       style="fill:#0b486d;fill-opacity:1;stroke:none"
        d="m 428.71434,520.79071 0,23.99998 7.99998,-3.99999 7.99998,3.99999 0,-23.99998 z m 1,1 13.99996,0 0,21.55698 -6.99998,-3.55699 -6.99998,3.55699 z"
        id="path2996"
        class="ColorScheme-Text" />

@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-height="977"
      id="namedview680"
      showgrid="false"
      inkscape:zoom="7.552"
-     inkscape:cx="12.48422"
-     inkscape:cy="70.774781"
+     inkscape:cx="30.8423"
+     inkscape:cy="55.319315"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -788,7 +788,8 @@
   </g>
   <g
      id="g135"
-     transform="translate(-1)">
+     transform="translate(-1)"
+     style="opacity:0.01">
     <rect
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.16024685;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2218"
@@ -798,7 +799,8 @@
        y="63" />
     <g
        id="g2222"
-       transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+       transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
+       style="">
       <path
          style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none"
          id="path2220"
@@ -808,7 +810,8 @@
   </g>
   <g
      id="hover-topleft"
-     transform="translate(-1)">
+     transform="translate(-1)"
+     style="opacity:0.01">
     <rect
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2226"
@@ -823,7 +826,8 @@
   </g>
   <g
      id="hover-topright"
-     transform="translate(-1)">
+     transform="translate(-1)"
+     style="opacity:0.01">
     <rect
        id="rect2232"
        width="3"
@@ -1595,7 +1599,8 @@
   </g>
   <g
      id="north-hover-top"
-     transform="translate(20)">
+     transform="translate(20)"
+     style="opacity:0.01">
     <rect
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.16024685;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2218-9"
@@ -1605,7 +1610,8 @@
        y="63" />
     <g
        id="g2222-4"
-       transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
+       transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
+       style="">
       <path
          style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none"
          id="path2220-7"
@@ -1615,7 +1621,8 @@
   </g>
   <g
      id="north-hover-topleft"
-     transform="translate(20)">
+     transform="translate(20)"
+     style="opacity:0.01">
     <rect
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2226-8"
@@ -1630,7 +1637,8 @@
   </g>
   <g
      id="north-hover-topright"
-     transform="translate(20)">
+     transform="translate(20)"
+     style="opacity:0.01">
     <rect
        id="rect2232-5"
        width="3"
@@ -2357,7 +2365,7 @@
     <path
        id="path2200-0"
        d="m 3,80 v 1 1 h 14 v -1 -1 z"
-       style="color:#3daee9;opacity:0.04999998;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
+       style="color:#3daee9;opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
   </g>
   <g
      id="east-hover-left"
@@ -2387,7 +2395,7 @@
     <path
        id="path2210-0"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-center"
@@ -2398,7 +2406,7 @@
        height="13"
        x="5"
        y="4.1"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-top"
@@ -2414,7 +2422,7 @@
        id="g2222-3"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
       <path
-         style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none"
+         style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none"
          id="path2220-8"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -2448,7 +2456,7 @@
     <path
        id="path2234-1"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-bottomleft"
@@ -2478,7 +2486,7 @@
     <path
        id="path2246-4"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-normal-bottom"
@@ -2629,7 +2637,7 @@
     <path
        id="path2304-8"
        d="m 3,38 v 1 1 h 14 v -1 -1 z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
+       style="color:#3daee9;opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
   </g>
   <g
      id="east-focus-left"
@@ -2659,7 +2667,7 @@
     <path
        id="path2314-8"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-focus-center"
@@ -2670,7 +2678,7 @@
        height="13"
        x="5"
        y="4.1"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-focus-top"
@@ -2686,7 +2694,7 @@
        id="g2326-75"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
       <path
-         style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none"
+         style="opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none"
          id="path2324-3"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -2720,7 +2728,7 @@
     <path
        id="path2338-8"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-focus-bottomleft"
@@ -2750,7 +2758,7 @@
     <path
        id="path2350-3"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-progress-left">
@@ -3146,7 +3154,7 @@
     <path
        id="path2200-2"
        d="m 3,80 v 1 1 h 14 v -1 -1 z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
+       style="color:#3daee9;opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
   </g>
   <g
      id="west-hover-left"
@@ -3161,7 +3169,7 @@
     <path
        id="path2204-86"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-right"
@@ -3187,7 +3195,7 @@
        height="13"
        x="5"
        y="4.1"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-top"
@@ -3203,7 +3211,7 @@
        id="g2222-2"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
       <path
-         style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none"
+         style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none"
          id="path2220-4"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -3222,7 +3230,7 @@
     <path
        id="path2228-62"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"
-       style="opacity:0.04999998;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-topright"
@@ -3252,7 +3260,7 @@
     <path
        id="path2240-8"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.4;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-bottomright"
@@ -3418,7 +3426,7 @@
     <path
        id="path2304-6"
        d="m 3,38 v 1 1 h 14 v -1 -1 z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
+       style="color:#3daee9;opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.7337994" />
   </g>
   <g
      id="west-focus-left"
@@ -3433,7 +3441,7 @@
     <path
        id="path2308-6"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-focus-right"
@@ -3459,7 +3467,7 @@
        height="13"
        x="5"
        y="4.1"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-focus-top"
@@ -3475,7 +3483,7 @@
        id="g2326-72"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
       <path
-         style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none"
+         style="opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none"
          id="path2324-82"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -3494,7 +3502,7 @@
     <path
        id="path2332-9"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"
-       style="opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-focus-topright"
@@ -3524,7 +3532,7 @@
     <path
        id="path2344-7"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"
-       style="color:#3daee9;opacity:0.05;fill:#dfdfdf;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:0.7;fill:#3daee9;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-focus-bottomright"

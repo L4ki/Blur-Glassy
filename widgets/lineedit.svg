@@ -22,8 +22,8 @@
    inkscape:export-ydpi="90"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1029"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -34,7 +34,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="11.313708"
-     inkscape:cx="13.819382"
+     inkscape:cx="-3.5047349"
      inkscape:cy="20.34535"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -1976,7 +1976,7 @@
      height="2.077126"
      width="2.0329318"
      id="hint-stretch-borders"
-     style="fill:#3daee9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#0f587d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <rect
      transform="scale(1,-1)"
      inkscape:label="#sunken-center"
@@ -2115,7 +2115,7 @@
        x="16.292894"
        y="3.1207829" />
     <rect
-       style="fill:#147ab1;fill-opacity:1;stroke:none"
+       style="fill:#0e577e;fill-opacity:1;stroke:none"
        id="rect5293"
        width="27"
        height="1"
