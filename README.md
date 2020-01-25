@@ -49,4 +49,11 @@ Changelog: 15.12.2019.
 
 Redesigned Theme
 
+Changelog: 25.01.2020.
+----------------------
+
+Added widgets: listitem.svg
+
+
+
 
