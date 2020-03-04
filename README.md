@@ -54,6 +54,11 @@ Changelog: 25.01.2020.
 
 Added widgets: listitem.svg
 
+Changelog: 04.03.2020.
+----------------------
+
+Redesigned Plasma Theme
+
 
 
 
