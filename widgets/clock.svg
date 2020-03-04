@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1022"
      id="namedview78"
      showgrid="false"
-     inkscape:zoom="1.668772"
-     inkscape:cx="-192.77557"
-     inkscape:cy="-13.613887"
+     inkscape:zoom="2.36"
+     inkscape:cx="20.223257"
+     inkscape:cy="93.154821"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -247,7 +247,7 @@
            transform="matrix(0,1,-1,0,0,0)" />
         <path
            transform="translate(-238.40858,197.28733)"
-           style="fill:none;stroke:#5599ff;stroke-opacity:1"
+           style="fill:none;stroke:#e1edff;stroke-opacity:1;opacity:0.3"
            id="path5627"
            d="m 1352.4771,382.72916 a 96.605507,96.605507 0 0 1 -96.6055,96.6055 96.605507,96.605507 0 0 1 -96.6055,-96.6055 96.605507,96.605507 0 0 1 96.6055,-96.60551 96.605507,96.605507 0 0 1 96.6055,96.60551 z" />
         <g
