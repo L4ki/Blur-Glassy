@@ -59,6 +59,13 @@ Changelog: 04.03.2020.
 
 Redesigned Plasma Theme
 
+Changelog: 19.05.2020.
+---------------------
+
+Added icons: kdeconnect.svg, device.svg, virt.svg
+
+
+
 
 
 
