@@ -16,7 +16,7 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
    sodipodi:docname="line.svg"
-   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25"
@@ -73,50 +73,6 @@
     <style
        type="text/css"
        id="current-color-scheme">
-      .ColorScheme-Text {
-        
-        stop-
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        
-        stop-
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        
-        stop-
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
       </style>
   </defs>
   <metadata
