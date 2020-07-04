@@ -64,6 +64,13 @@ Changelog: 19.05.2020.
 
 Added icons: kdeconnect.svg, device.svg, virt.svg
 
+Changelog: 04.07.2020.
+---------------------
+
+Added widget: checkmarks.svg
+
+Correction widgets: tasks.svg, containment-controls.svg
+
 
 
 
