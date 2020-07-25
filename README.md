@@ -71,6 +71,11 @@ Added widget: checkmarks.svg
 
 Correction widgets: tasks.svg, containment-controls.svg
 
+Changelog: 25.07.2020.
+----------------------
+
+Widget correction: viewitem.svg
+
 
 
 
