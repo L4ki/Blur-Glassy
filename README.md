@@ -76,6 +76,10 @@ Changelog: 25.07.2020.
 
 Widget correction: viewitem.svg
 
+Changelog: 17.08.2020.
+----------------------
+
+Redesigned Theme
 
 
 
