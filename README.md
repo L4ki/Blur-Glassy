@@ -81,6 +81,11 @@ Changelog: 17.08.2020.
 
 Redesigned Theme
 
+Changelog: 01.09.2020.
+----------------------
+
+Correction widgets: button.svg, actionbutton.svg
+
 
 
 
