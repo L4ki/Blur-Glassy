@@ -86,6 +86,11 @@ Changelog: 01.09.2020.
 
 Correction widgets: button.svg, actionbutton.svg
 
+Changelog: 18.09.2020.
+---------------------
+
+Fixed widget: button.svg
+
 
 
 
