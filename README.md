@@ -91,6 +91,11 @@ Changelog: 18.09.2020.
 
 Fixed widget: button.svg
 
+Changelog: 24.10.2020.
+----------------------
+
+Added icon: window.svg
+
 
 
 
