@@ -35,6 +35,11 @@ Widgets correction: clock.svg, background.svg, button.svg
 Changelog: 09.10.2019.
 ---------------------
 
+Changelog: 12.11.2020.
+----------------------
+
+Fixed widget: panel-background.svg
+
 Icon added: preferences.svg
 
 Changelog: 18.10.2019.
