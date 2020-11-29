@@ -106,6 +106,11 @@ Changelog: 12.11.2020.
 
 Fixed widget: panel-background.svg
 
+Changelog: 29.11.2020.
+---------------------
+
+Redesigned Theme
+
 
 
 
