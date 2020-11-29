@@ -13,7 +13,7 @@
    width="200"
    id="svg2"
    sodipodi:docname="clock.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,16 +24,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1018"
      id="namedview78"
      showgrid="false"
-     inkscape:zoom="2.36"
-     inkscape:cx="20.223257"
-     inkscape:cy="93.154821"
+     inkscape:zoom="2.3080677"
+     inkscape:cx="120.73087"
+     inkscape:cy="118.55894"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid906" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,18 +53,6 @@
   </metadata>
   <defs
      id="defs5">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient888">
-      <stop
-         style="stop-color:#3daee9;stop-opacity:1;"
-         offset="0"
-         id="stop884" />
-      <stop
-         style="stop-color:#3daee9;stop-opacity:0;"
-         offset="1"
-         id="stop886" />
-    </linearGradient>
     <linearGradient
        id="linearGradient4011">
       <stop
@@ -131,16 +124,6 @@
        id="radialGradient4671-1"
        xlink:href="#linearGradient4011"
        gradientTransform="matrix(1.0765432,0,0,1.0765432,-333.58742,169.89278)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient888"
-       id="radialGradient890"
-       cx="1018.4126"
-       cy="581.91724"
-       fx="1018.4126"
-       fy="581.91724"
-       r="104"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="translate(-1798.1356,76.7415)"
@@ -163,18 +146,18 @@
      id="ClockFace">
     <circle
        id="path4329-4"
-       style="fill:url(#radialGradient890);fill-opacity:1;stroke:none;opacity:0.2"
-       cx="1018.4126"
-       cy="581.91724"
-       r="104" />
+       style="opacity:1;fill:#f5f5f5;fill-opacity:0.4;stroke:none;stroke-width:0.922116"
+       cx="1017.7574"
+       cy="579.85199"
+       r="95.900002" />
     <g
        id="g4323">
       <rect
-         style="opacity:0.00499998;fill:#3daee9;fill-opacity:1;stroke:none"
+         style="opacity:0.00499998;fill:#ffffff;fill-opacity:0;stroke:none"
          id="rect4069"
          width="214"
          height="214"
-         x="910.76758"
+         x="910.76544"
          y="473.52377" />
       <circle
          transform="matrix(1.0765432,0,0,1.0765432,-334.53758,169.99252)"
@@ -246,10 +229,9 @@
            style="fill:#0049b4;fill-opacity:1;stroke:none"
            transform="matrix(0,1,-1,0,0,0)" />
         <path
-           transform="translate(-238.40858,197.28733)"
-           style="fill:none;stroke:#e1edff;stroke-opacity:1;opacity:0.3"
+           style="opacity:0;fill:#f5f5f5;fill-opacity:0.40000001;stroke:#e1edff;stroke-opacity:1"
            id="path5627"
-           d="m 1352.4771,382.72916 a 96.605507,96.605507 0 0 1 -96.6055,96.6055 96.605507,96.605507 0 0 1 -96.6055,-96.6055 96.605507,96.605507 0 0 1 96.6055,-96.60551 96.605507,96.605507 0 0 1 96.6055,96.60551 z" />
+           d="m 1114.1684,580.01649 a 96.605507,96.605507 0 0 1 -96.6055,96.6055 96.605507,96.605507 0 0 1 -96.60547,-96.6055 96.605507,96.605507 0 0 1 96.60547,-96.60551 96.605507,96.605507 0 0 1 96.6055,96.60551 z" />
         <g
            transform="translate(-0.50849973,-0.41219339)"
            id="g6073">
@@ -276,33 +258,33 @@
            height="2.7090182"
            width="20"
            id="rect4510"
-           style="fill:#2a2a2a;fill-opacity:0.52403846;stroke:none;filter:url(#filter5578)"
-           transform="matrix(0,0.40585592,-0.86919488,0,-132.13779,344.5087)" />
+           style="fill:#2a2a2a;fill-opacity:0.524038;stroke:none;filter:url(#filter5578)"
+           transform="matrix(0,0.40585592,-0.86919488,0,-132.13779,347.80905)" />
         <rect
-           transform="matrix(0,1,-1,0,0,0)"
+           transform="rotate(90)"
            style="fill:#0049b4;fill-opacity:1;stroke:none"
            id="rect4512"
            width="8.1235151"
            height="2.7090182"
-           x="485.82907"
+           x="489.42899"
            y="-1018.8154" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="936.16785"
            y="584.64886"
            id="text4204"><tspan
              id="tspan4206"
              x="936.16785"
              y="584.64886"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1;">9</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1">9</tspan></text>
         <text
            id="text4208"
            y="584.99323"
            x="1090.8383"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1"
              y="584.99323"
              x="1090.8383"
              id="tspan4210">3</tspan></text>
@@ -310,22 +292,22 @@
            id="text4212"
            y="659.67615"
            x="1012.7079"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1"
              y="659.67615"
              x="1012.7079"
              id="tspan4214">6</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-           x="1008.3308"
-           y="507.15869"
+           style="font-style:normal;font-weight:normal;font-size:27.7659px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:1.851px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1002.6181"
+           y="521.86322"
            id="text4216"><tspan
              id="tspan4218"
-             x="1008.3308"
-             y="507.15869"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Aller;-inkscape-font-specification:Aller;fill:#1a1a1a;fill-opacity:1;">12</tspan></text>
+             x="1002.6181"
+             y="521.86322"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.7659px;font-family:Aller;-inkscape-font-specification:Aller;fill:#3daee9;fill-opacity:1;stroke-width:1.851px">12</tspan></text>
       </g>
     </g>
   </g>
@@ -383,7 +365,7 @@
        height="1.7321701"
        width="77.735947"
        id="rect6212"
-       style="fill:#0059dc;fill-opacity:1;stroke:none" />
+       style="fill:#3daee9;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(-0.50061728,-0.86566873,0.86566873,-0.50061728,985.87226,726.54885)"
        y="96"
@@ -395,7 +377,7 @@
     <path
        id="path6214"
        d="m 1777.8958,382.03223 c 0,3.58955 -2.9099,6.49945 -6.4994,6.49945 -3.5896,0 -6.4995,-2.9099 -6.4995,-6.49945 0,-3.58955 2.9099,-6.49946 6.4995,-6.49946 3.5895,0 6.4994,2.90991 6.4994,6.49946 z"
-       style="fill:#0059dc;fill-opacity:1;stroke:none"
+       style="fill:#3daee9;fill-opacity:1;stroke:none"
        transform="matrix(0.29783451,0,0,0.29783451,489.8134,467.44934)" />
   </g>
   <g

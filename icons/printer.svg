@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3229"
+   height="24"
+   width="24"
+   version="1.0"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="printer.svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.58823529"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview6"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="15.170655"
+     inkscape:cx="-13.182767"
+     inkscape:cy="10.531359"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3229"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="printer"
+     transform="translate(1,-1)">
+    <rect
+       y="1"
+       x="-1"
+       height="24"
+       width="24"
+       id="rect2991"
+       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+    <g
+       transform="translate(-1,1)"
+       id="g2995">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0;fill:#000000;fill-opacity:0;stroke:none"
+         d="M 8,5 C 7.446,5 7,6.446 7,7 V 9 H 4.75 C 4.3345,9 4,9.3345 4,9.75 v 5.5 C 4,15.6655 4.3345,16 4.75,16 H 7 v 4 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -4 h 2.25 C 19.6655,16 20,15.6655 20,15.25 V 9.75 C 20,9.3345 19.6655,9 19.25,9 H 17 V 7 C 17,6.446 16.554,5 16,5 Z m 0.75,2 h 6.5 C 15.6655,7 16,7.3345 16,7.75 V 10 H 8 V 7.75 C 8,7.3345 8.3345,7 8.75,7 Z M 8,14 h 8 v 5 H 8 Z"
+         id="rect3001-6-6"
+         sodipodi:nodetypes="sscsssscsssscsssscssssssccssccccc" />
+      <path
+         style="fill:#232629;fill-opacity:1;stroke:none"
+         d="M 8,5 C 7.446,5 7,5.446 7,6 V 8 H 5 C 4.5845,8 4,8.5845 4,9 v 5 c 0,0.4155 0.5845,1 1,1 h 2 v 4 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -4 h 2 c 0.4155,0 1,-0.5845 1,-1 V 9 C 20,8.5845 19.4155,8 19,8 H 17 V 6 C 17,5.446 16.554,5 16,5 Z m 0.75,1 h 6.5 C 15.6655,6 16,6.3345 16,6.75 V 9 H 8 V 6.75 C 8,6.3345 8.3345,6 8.75,6 Z M 13,10 h 1 v 1 h -1 z m 2,0 h 1 v 1 h -1 z m 2,0 h 1 v 1 h -1 z m -9,3 h 8 v 6 H 8 Z m 1,2 v 1 h 6 v -1 z m 0,2 v 1 h 4 v -1 z"
+         id="rect3001-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sscsssscsssscsssscssssssccsscccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
