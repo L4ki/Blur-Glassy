@@ -111,7 +111,10 @@ Changelog: 29.11.2020.
 
 Redesigned Theme
 
+Changelog: 12.01.2021.
+----------------------
 
+Redesigned Theme
 
 
 
