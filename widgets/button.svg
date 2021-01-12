@@ -12,7 +12,7 @@
    viewBox="0 0 288 224"
    version="1.1"
    sodipodi:docname="button.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata404">
     <rdf:RDF>
@@ -141,16 +141,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1014"
      id="namedview317"
      showgrid="false"
      inkscape:current-layer="svg2"
      inkscape:zoom="4.2142857"
      inkscape:cx="156.49549"
-     inkscape:cy="88.300163"
+     inkscape:cy="135.75779"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1136" />
@@ -610,39 +611,48 @@
   <path
      id="mask-normal-center"
      d="m56 68h22v22h-22z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-bottomright"
      d="m 82,94 v 2 c 1.108,0 2,-0.892 2,-2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-bottom"
      d="m 56,94 v 2 h 22 v -2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-bottomleft"
      d="m 50,94 c 0,1.108 0.892,2 2,2 v -2 h -1 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-right"
      d="m 82,68 v 22 h 2 V 68 Z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-left"
      d="m 50,68 v 22 h 2 V 68 Z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-topright"
      d="m 82,62 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-top"
      d="m 56,62 v 2 h 22 v -2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-normal-topleft"
      d="m 52,62 c -1.108,0 -2,0.892 -2,2 h 2 v -1 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <g
      id="hover-bottomleft"
      transform="translate(174,104)"
@@ -1134,15 +1144,13 @@
        id="rect833-7-3-55-1-3"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        class="ColorScheme-ButtonFocus"
-       fill="currentColor"
-       style="" />
+       fill="currentColor" />
     <path
        id="path915-4-7-1"
        d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
        class="ColorScheme-ButtonText"
        fill="currentColor"
-       opacity="0.3"
-       style="" />
+       opacity="0.3" />
     <path
        id="fbl"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
@@ -1185,15 +1193,13 @@
        id="rect833-7-3-1-3-9-6"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        class="ColorScheme-ButtonFocus"
-       fill="currentColor"
-       style="" />
+       fill="currentColor" />
     <path
        id="path915-2-7-7-7"
        d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
        class="ColorScheme-ButtonText"
        fill="currentColor"
-       opacity="0.3"
-       style="" />
+       opacity="0.3" />
     <path
        style="fill:url(#linearGradient1233-8);fill-opacity:1"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
@@ -1313,16 +1319,14 @@
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonFocus"
-       fill="currentColor"
-       style="" />
+       fill="currentColor" />
     <path
        id="rect829-6-2-1-2-8-3-6"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        fill="currentColor"
-       opacity="0.3"
-       style="" />
+       opacity="0.3" />
     <rect
        style="fill:url(#linearGradient1133-0-5);fill-opacity:1;fill-rule:evenodd"
        id="fl"
@@ -1359,39 +1363,48 @@
   <path
      id="mask-focus-background-center"
      d="m56 144h22v22h-22z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-bottomright"
      d="m 82,170 v 2 c 1.108,0 2,-0.892 2,-2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-bottom"
      d="m 56,170 v 2 h 22 v -2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-bottomleft"
      d="m 50,170 c 0,1.108 0.892,2 2,2 v -2 h -1 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-right"
      d="m 82,144 v 22 h 2 v -22 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-left"
      d="m 50,144 v 22 h 2 v -22 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-topright"
      d="m 82,138 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-top"
      d="m 56,138 v 2 h 22 v -2 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="mask-focus-background-topleft"
      d="m 52,138 c -1.108,0 -2,0.892 -2,2 h 2 v -1 z"
-     fill-rule="evenodd" />
+     fill-rule="evenodd"
+     style="fill:#000000;fill-opacity:0.05" />
   <path
      id="pressed-center"
      d="m 180,182 h 22 v 22 h -22 z"
@@ -2106,7 +2119,5 @@
      y="-68"
      x="96"
      style="font-size:21.3333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px"
-     xml:space="preserve"><tspan
-       id="tspan1169"
-       sodipodi:role="line" /></text>
+     xml:space="preserve" />
 </svg>

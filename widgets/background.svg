@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1014"
      id="namedview208"
      showgrid="false"
      inkscape:zoom="5.0188105"
-     inkscape:cx="22.207874"
-     inkscape:cy="44.661129"
+     inkscape:cx="30.060285"
+     inkscape:cy="31.792558"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -510,7 +510,7 @@
       <path
          d="M 10.027289,5.0000608 V 40.000062 H 39.999985 V 5.0000608 Z"
          id="path11378-0"
-         style="opacity:1;fill:#f5f5f5;fill-opacity:0.40000001;stroke:none" />
+         style="opacity:1;fill:#f5f5f5;fill-opacity:0.4;stroke:none" />
       <g
          transform="matrix(1,0,0,1.061863,0,-0.30931877)"
          id="g5752"
@@ -744,33 +744,33 @@
      x="-4.5329394"
      y="-22.917648"
      id="hint-stretch-borders"
-     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#f5f5f5;fill-opacity:0.40000001;stroke:none" />
   <rect
      width="14"
      height="4"
      x="-0.17764512"
      y="29.727062"
      id="hint-left-margin"
-     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#f5f5f5;fill-opacity:0.40000001;stroke:none" />
   <rect
      width="4"
      height="14"
      x="29.467056"
      y="-0.91764879"
      id="hint-top-margin"
-     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#f5f5f5;fill-opacity:0.40000001;stroke:none" />
   <rect
      width="4"
      height="14"
      x="29.467056"
      y="51.082355"
      id="hint-bottom-margin"
-     style="fill:#3daee9;fill-opacity:1;stroke:none" />
+     style="fill:#f5f5f5;fill-opacity:0.40000001;stroke:none" />
   <rect
      width="14"
      height="4"
      x="50.316471"
      y="29.727062"
      id="hint-right-margin"
-     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#f5f5f5;fill-opacity:0.40000001;stroke:none" />
 </svg>
