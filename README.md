@@ -116,5 +116,9 @@ Changelog: 12.01.2021.
 
 Redesigned Theme
 
+Changelog: 04.02.2021.
+----------------------
+
+Fixed icons: input.svg, media.svg
 
 
