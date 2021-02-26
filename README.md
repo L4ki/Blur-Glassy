@@ -121,4 +121,9 @@ Changelog: 04.02.2021.
 
 Fixed icons: input.svg, media.svg
 
+Changelog: 26.02.2021.
+----------------------
+
+Fixed widgets: tasks.svg, scrollbar.svg
+
 
