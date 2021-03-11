@@ -126,4 +126,9 @@ Changelog: 26.02.2021.
 
 Fixed widgets: tasks.svg, scrollbar.svg
 
+Changelog: 11.03.2021.
+----------------------
+
+Fixed icons: kmail.svg, mail.svg
+
 
