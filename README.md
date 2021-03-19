@@ -131,4 +131,9 @@ Changelog: 11.03.2021.
 
 Fixed icons: kmail.svg, mail.svg
 
+Changelog: 19.03.2021.
+----------------------
+
+Added icons: drive.svg, manjaro.svg, pamac.svg, plasmavault_error.svg, plasmavault.svg, TeamViewer.svg
+
 
