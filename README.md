@@ -136,4 +136,9 @@ Changelog: 19.03.2021.
 
 Added icons: drive.svg, manjaro.svg, pamac.svg, plasmavault_error.svg, plasmavault.svg, TeamViewer.svg
 
+Changelog: 27.03.2021.
+----------------------
+
+Added icons: video-card.svg, wallet.svg, software.svg, quassel.svg
+
 
