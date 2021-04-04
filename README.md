@@ -141,4 +141,9 @@ Changelog: 27.03.2021.
 
 Added icons: video-card.svg, wallet.svg, software.svg, quassel.svg
 
+Changelog: 04.04.2021.
+----------------------
+
+Added icons: konv_message.svg, konversation.svg, choqok_offline.svg, choqok.svg
+
 
