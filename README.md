@@ -146,4 +146,11 @@ Changelog: 04.04.2021.
 
 Added icons: konv_message.svg, konversation.svg, choqok_offline.svg, choqok.svg
 
+Changelog: 11.04.2021.
+----------------------
+
+Added icon: compass.svg
+
+Redesigned icons 
+
 
