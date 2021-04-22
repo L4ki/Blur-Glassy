@@ -153,4 +153,11 @@ Added icon: compass.svg
 
 Redesigned icons 
 
+Changelog: 22.04.2021.
+----------------------
+
+Fixed icons: battery.svg, choqok.svg
+
+Added icons: update.svg, cantata.scg, qbittorrent.svg
+
 
