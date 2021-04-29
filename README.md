@@ -160,4 +160,11 @@ Fixed icons: battery.svg, choqok.svg
 
 Added icons: update.svg, cantata.scg, qbittorrent.svg
 
+Changelog: 29.04.2021.
+---------------------
+
+Fixed icon: input.svg
+
+Added icons: activities.svg, utilities.svg, kalarm.svg
+
 
