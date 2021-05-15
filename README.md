@@ -172,4 +172,9 @@ Changelog: 06.05.2021.
 
 Added icons: korgac.svg, kpackagekit.svg, kaffeine.svg, touchpad.svg
 
+Changelog: 15.05.2021.
+----------------------
+
+Added icons: akonadi.svg, akregator.svg
+
 
