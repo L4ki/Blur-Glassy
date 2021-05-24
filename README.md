@@ -177,6 +177,9 @@ Changelog: 15.05.2021.
 
 Added icons: akonadi.svg, akregator.svg
 
-Changelog: Added icons: kopete.svg, kteatime.svg, nepomuk.svg
+Changelog: 24.05.2021.
+----------------------
+
+Added icons: kopete.svg, kteatime.svg, nepomuk.svg
 
 
