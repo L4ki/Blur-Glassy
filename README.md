@@ -182,4 +182,9 @@ Changelog: 24.05.2021.
 
 Added icons: kopete.svg, kteatime.svg, nepomuk.svg
 
+Changelog: 01.06.2021.
+----------------------
+
+Added icons: audacious.svg, elisa.svg
+
 
