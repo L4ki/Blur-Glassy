@@ -188,3 +188,8 @@ Changelog: 01.06.2021.
 Added icons: audacious.svg, elisa.svg
 
 
+Changelog: 08.06.2021.
+----------------------
+
+Added icons: kget.svg, dropbox.svg, document.svg
+
