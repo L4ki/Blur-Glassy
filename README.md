@@ -203,4 +203,8 @@ Changelog: 27.06.2021.
 
 Fixed icon: elisa.svg
 
+Changelog: 06.07.2021.
+---------------------
+
+Added icon: amarok.svg
 
