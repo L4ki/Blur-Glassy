@@ -12,7 +12,7 @@
    width="128"
    id="svg2"
    sodipodi:docname="listitem.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,16 +23,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1007"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="6.2933332"
-     inkscape:cx="4.8980576"
-     inkscape:cy="240.50689"
+     inkscape:zoom="2.2250293"
+     inkscape:cx="94.852027"
+     inkscape:cy="138.3915"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -55,11 +56,10 @@
      id="defs5">
     <style
        type="text/css"
-       id="current-color-scheme">
-    </style>
+       id="current-color-scheme" />
   </defs>
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="hint-tile-center"
      width="2.0329318"
      height="2.077126"
@@ -73,16 +73,16 @@
      height="6"
      width="2"
      id="pressed-hint-top-margin"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="pressed-hint-bottom-margin"
      width="2"
      height="6"
      x="24.471399"
      y="22.13983" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="pressed-hint-left-margin"
      width="4"
      height="2"
@@ -94,16 +94,16 @@
      height="2"
      width="4"
      id="pressed-hint-right-margin"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
   <rect
      y="58"
      x="17"
      height="1.9999999"
      width="4"
      id="normal-hint-left-margin"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="normal-hint-top-margin"
      width="2"
      height="6"
@@ -115,9 +115,9 @@
      height="6"
      width="2"
      id="normal-hint-bottom-margin"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="normal-hint-right-margin"
      width="4"
      height="2"
@@ -291,16 +291,16 @@
      height="6"
      width="2"
      id="section-hint-top-margin"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="section-hint-left-margin"
      width="4"
      height="1.9999999"
      x="17.022379"
      y="92.471947" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01"
      id="section-hint-bottom-margin"
      width="2"
      height="6"
@@ -357,5 +357,5 @@
      height="2"
      width="4"
      id="section-hint-right-margin"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.01" />
 </svg>
