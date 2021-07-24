@@ -208,3 +208,8 @@ Changelog: 06.07.2021.
 
 Added icon: amarok.svg
 
+Changelog: 24.07.2021.
+----------------------
+
+Fixed widget: listitem.svg
+
