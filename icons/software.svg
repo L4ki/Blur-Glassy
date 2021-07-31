@@ -23,12 +23,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -36,23 +37,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1007"
      id="namedview33"
      showgrid="false"
      inkscape:zoom="5.269354"
-     inkscape:cx="32.460424"
-     inkscape:cy="32.304868"
+     inkscape:cx="2.4584232"
+     inkscape:cy="7.3678715"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4153"
      inkscape:document-rotation="0"
-     showguides="true">
+     showguides="true"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid891"
-       originx="8.0871582e-07"
-       originy="-3.5400391e-06" />
+       originx="-30.002"
+       originy="-24.937" />
   </sodipodi:namedview>
   <defs
      id="defs4157">
@@ -65,7 +67,7 @@
      y="0"
      xlink:href="#g878"
      id="use880"
-     transform="translate(-27.327829)"
+     transform="translate(-57.32983,-24.936996)"
      width="100%"
      height="100%" />
   <use
@@ -73,7 +75,7 @@
      y="0"
      xlink:href="#use880"
      id="use882"
-     transform="translate(-24.481181,0.18977846)"
+     transform="translate(-24.481181,0.18977854)"
      width="100%"
      height="100%" />
   <use
@@ -81,14 +83,15 @@
      y="0"
      xlink:href="#use884"
      id="use886"
-     transform="translate(-27.897158,0.75910246)"
+     transform="translate(-57.899159,-24.177894)"
      width="100%"
      height="100%" />
   <g
      id="g6"
-     transform="matrix(0.81634558,0,0,0.81634558,-30.939696,-12.614518)" />
+     transform="matrix(0.81634558,0,0,0.81634558,-60.941697,-37.551514)" />
   <g
-     id="software-updates-inactive">
+     id="software-updates-inactive"
+     transform="translate(-30.002001,-24.936996)">
     <rect
        id="rect870"
        width="22"
@@ -102,7 +105,8 @@
        style="fill:#000000;fill-opacity:1;stroke-width:0.0177713" />
   </g>
   <g
-     id="software-updates-updates">
+     id="software-updates-updates"
+     transform="translate(-30.002001,-24.936996)">
     <rect
        id="rect4210"
        width="22"
@@ -136,7 +140,8 @@
        class="ColorScheme-Background" />
   </g>
   <g
-     id="software-updates-important">
+     id="software-updates-important"
+     transform="translate(-30.002001,-24.936996)">
     <rect
        id="rect855"
        width="22"
@@ -163,7 +168,8 @@
        style="fill:#ff2a2a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     id="software-updates-additional">
+     id="software-updates-additional"
+     transform="translate(-30.002001,-24.936996)">
     <rect
        style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"
        y="24.936996"
@@ -182,16 +188,17 @@
     <path
        d="m 46.795866,31.101314 -0.780136,3.595033 0.961385,-0.405172 c 0.545572,2.063193 0.01084,4.364509 -1.61892,5.994088 -1.66867,1.668679 -4.044627,2.198246 -6.146911,1.58693 l -1.423441,1.423432 c 2.919747,1.249284 6.452573,0.673523 8.85341,-1.727313 2.16982,-2.169819 2.843324,-5.265493 2.02942,-7.996861 l 1.046702,-0.440712 z m -11.75361,6.482781 c -0.545562,-2.063192 -0.01067,-4.364506 1.618919,-5.994086 1.668678,-1.668677 4.04464,-2.198246 6.146916,-1.586932 l 1.42345,-1.42344 c -2.917973,-1.251063 -6.452581,-0.675291 -8.853417,1.725545 -2.169814,2.169813 -2.843325,5.265479 -2.029422,7.996848 l -1.046701,0.440725 2.921518,2.029428 0.780137,-3.595034 z"
        id="path4-1"
-       style="fill:#00ccff;fill-opacity:1;stroke-width:0.0177712" />
+       style="fill:#147ab4;fill-opacity:1;stroke-width:0.0177712" />
     <path
        inkscape:connector-curvature="0"
        id="path4167-3"
        d="m 40.9835,32.066996 3.833501,3.833499 h -1.91675 v 3.833501 h -3.8335 v -3.833501 h -1.91675 l 1.91675,-1.916749 z"
-       style="color:#eff0f1;fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:1.91675"
+       style="color:#eff0f1;fill:#147ab4;fill-opacity:1;stroke:none;stroke-width:1.91675"
        class="ColorScheme-Background" />
   </g>
   <g
-     id="software-updates-release">
+     id="software-updates-release"
+     transform="translate(-30.002001,-24.936996)">
     <rect
        id="rect27"
        width="22"
@@ -219,7 +226,8 @@
        class="ColorScheme-Background" />
   </g>
   <g
-     id="software-updates-security">
+     id="software-updates-security"
+     transform="translate(-30.002001,-24.936996)">
     <rect
        id="rect865"
        width="22"
