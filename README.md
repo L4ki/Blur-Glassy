@@ -213,3 +213,8 @@ Changelog: 24.07.2021.
 
 Fixed widget: listitem.svg
 
+Changelog: 31.07.2021.
+----------------------
+
+Fixed icons: cantata.svg, software.svg
+
