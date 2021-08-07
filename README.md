@@ -218,3 +218,8 @@ Changelog: 31.07.2021.
 
 Fixed icons: cantata.svg, software.svg
 
+Changelog:07.08.2021.
+--------------------
+
+Fixed widgets: tooltip.svg, background.svg
+
