@@ -223,3 +223,8 @@ Changelog:07.08.2021.
 
 Fixed widgets: tooltip.svg, background.svg
 
+
+Changelog:14.08.2021.
+--------------------
+
+Fixed widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
