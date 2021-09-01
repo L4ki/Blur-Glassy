@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="11.25"
    inkscape:export-xdpi="11.25"
    inkscape:export-filename="arrow-up.png"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
-   width="128">
+   width="128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      showguides="false"
      inkscape:document-rotation="0"
@@ -28,15 +27,15 @@
      inkscape:snap-nodes="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      showgrid="false"
      height="128px"
      width="128px"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="81.67877"
-     inkscape:cx="61.101396"
+     inkscape:cy="81.617258"
+     inkscape:cx="61.401872"
      inkscape:zoom="2.6464991"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -46,7 +45,10 @@
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#eff0f1"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="true">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        id="GridFromPre046Settings"
@@ -236,7 +238,7 @@
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient6476"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -305,7 +307,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
