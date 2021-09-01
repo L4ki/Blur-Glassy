@@ -228,3 +228,8 @@ Changelog:14.08.2021.
 --------------------
 
 Fixed widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+Changelog: 01.09.2021.
+----------------------
+
+Fixed widgets: action-overlays.svg, actionbutton.svg
