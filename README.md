@@ -233,3 +233,8 @@ Changelog: 01.09.2021.
 ----------------------
 
 Fixed widgets: action-overlays.svg, actionbutton.svg
+
+Changelog: 08.09.2021.
+----------------------
+
+Fixed icons: redshift.svg, update.svg
