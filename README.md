@@ -238,3 +238,8 @@ Changelog: 08.09.2021.
 ----------------------
 
 Fixed icons: redshift.svg, update.svg
+
+Changelog: 15.09.2021.
+----------------------
+
+Fixed icons: kmail.svg, mail.svg
