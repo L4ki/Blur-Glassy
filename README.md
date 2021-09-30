@@ -248,3 +248,8 @@ Changelog: 23.09.2021.
 ---------------------
 
 Fixed widget: scrollbar.svg
+
+Changelog: 30.09.2021.
+----------------------
+
+Fixed widget: TeamViewer, touchpad
