@@ -5,7 +5,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg867"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="redshift.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -119,8 +119,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="-0.26516504"
-     inkscape:cy="1.0606602"
+     inkscape:cx="9.4575531"
+     inkscape:cy="22.45064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -134,7 +134,7 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true">
     <inkscape:grid
        opacity="0.41960784"
        color="#3f3fff"
