@@ -264,3 +264,13 @@ Changelog: 16.10.2021.
 
 Fixed icon: redshift.svg
 
+Changelog: 23.10.2021.
+----------------------
+
+Enabled Blurred Widgets for Plasma 5.23
+
+Fixed widget: background.svg
+
+
+
+
