@@ -272,5 +272,12 @@ Enabled Blurred Widgets for Plasma 5.23
 Fixed widget: background.svg
 
 
+Changelog: 30.10.2021.
+---------------------
+
+Fixed widget: tasks.svg
+
+
+
 
 
