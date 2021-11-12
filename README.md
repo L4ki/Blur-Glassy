@@ -282,6 +282,12 @@ Changelog: 06.11.2021.
 
 Fixed dialogs: background.svg
 
+Changelog: 13.11.2021.
+---------------------
+
+Fixed widget: containment-controls
+
+
 
 
 
