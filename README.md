@@ -287,7 +287,7 @@ Changelog: 13.11.2021.
 
 Fixed widget: containment-controls
 
-Changelog: 13.11.2021.
+Changelog: 20.11.2021.
 ---------------------
 
 Fixed icon: document.svg
