@@ -292,6 +292,12 @@ Changelog: 20.11.2021.
 
 Fixed icon: document.svg
 
+Changelog: 27.11.2021.
+---------------------
+
+Fixed widget: slider.svg
+
+
 
 
 
