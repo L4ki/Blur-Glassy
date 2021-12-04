@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=Blur-Glassy
-Name=Blur-Glassy
+ColorScheme=Blur-Glassy-Color
+Name=Blur-Glassy-Color
 shadeSortColumn=true
 
 [KDE]
