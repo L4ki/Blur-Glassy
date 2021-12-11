@@ -302,6 +302,11 @@ Changelog: 04.12.2021.
 
 Update colors file
 
+Changelog: 11.12.2021.
+---------------------
+
+Update widget: tasks.svg
+
 
 
 
