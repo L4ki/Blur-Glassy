@@ -307,6 +307,13 @@ Changelog: 11.12.2021.
 
 Update widget: tasks.svg
 
+Changelog: 11.12.2021.
+---------------------
+
+Update widget: vieweitem.svg
+
+
+
 
 
 
