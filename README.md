@@ -310,7 +310,7 @@ Update widget: tasks.svg
 Changelog: 18.12.2021.
 ---------------------
 
-Update widget: vieweitem.svg
+Update widget: viewitem.svg
 
 
 
