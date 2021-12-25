@@ -312,6 +312,12 @@ Changelog: 18.12.2021.
 
 Update widget: viewitem.svg
 
+Changelog: 25.12.2021.
+---------------------
+
+Update widget: panel-background.svg
+
+
 
 
 
