@@ -327,6 +327,10 @@ Changelog: 08.01.2022.
 
 Update widget: tabbar.svg
 
+Changelog: 15.01.2022.
+---------------------
+
+Update widget: checkmarks.svg
 
 
 
