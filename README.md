@@ -337,7 +337,7 @@ Changelog: 23.01.2022.
 
 Update widget: clock.svg
 
-hangelog: 30.01.2022.
+Changelog: 30.01.2022.
 ---------------------
 
 Update icons: input.svg
