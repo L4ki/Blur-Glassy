@@ -342,6 +342,12 @@ Changelog: 30.01.2022.
 
 Update icons: input.svg
 
+Changelog: 06.02.2022.
+---------------------
+
+Update widgets: checkmarks.svg, slider.svg
+
+
 
 
 
