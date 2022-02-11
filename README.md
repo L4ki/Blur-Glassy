@@ -347,6 +347,11 @@ Changelog: 06.02.2022.
 
 Update widgets: checkmarks.svg, slider.svg
 
+Changelog: 013.02.2022.
+---------------------
+
+Update widgets: button.svg
+
 
 
 
