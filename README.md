@@ -352,6 +352,11 @@ Changelog: 13.02.2022.
 
 Update widgets: button.svg
 
+Changelog: 20.02.2022.
+---------------------
+
+Update icon: printer.svg
+
 
 
 
