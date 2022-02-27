@@ -357,6 +357,12 @@ Changelog: 20.02.2022.
 
 Update icon: printer.svg
 
+Changelog: 27.02.2022.
+---------------------
+
+Update widget: busywidget.svg
+
+
 
 
 
