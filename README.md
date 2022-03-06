@@ -362,6 +362,11 @@ Changelog: 27.02.2022.
 
 Update widget: busywidget.svg
 
+Changelog: 06.03.2022.
+---------------------
+
+Update icon: window.svg
+
 
 
 
