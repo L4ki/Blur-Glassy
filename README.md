@@ -388,6 +388,12 @@ Changelog: 03.04.2022.
 
 Update icon: touchpad.svg
 
+Changelog: 10.04.2022.
+---------------------
+
+Update icon: cantata.svg, notification.svg
+
+
 
 
 
