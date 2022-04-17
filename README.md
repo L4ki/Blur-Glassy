@@ -394,6 +394,12 @@ Changelog: 10.04.2022.
 Update icon: cantata.svg, notification.svg
 
 
+Changelog: 17.04.2022.
+---------------------
+
+Update icon: input.svg
+
+
 
 
 
