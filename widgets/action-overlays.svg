@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 48 48"
    sodipodi:docname="action-overlays.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,19 +36,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      id="namedview67"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="18"
-     inkscape:cy="24"
+     inkscape:zoom="8"
+     inkscape:cx="22.8125"
+     inkscape:cy="23.625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="true" />
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="false" />
   <defs
      id="defs2">
     <linearGradient
