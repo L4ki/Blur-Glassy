@@ -399,6 +399,11 @@ Changelog: 17.04.2022.
 
 Update icon: input.svg
 
+Changelog: 24.04.2022.
+---------------------
+
+Update widget: action-overlays.svg
+
 
 
 
