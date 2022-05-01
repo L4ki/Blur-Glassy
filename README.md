@@ -404,6 +404,11 @@ Changelog: 24.04.2022.
 
 Update widget: action-overlays.svg
 
+Changelog: 01.05.2022.
+---------------------
+
+Update icons: window.svg, kteatime.svg
+
 
 
 
