@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="SVGRoot"
    version="1.1"
-   viewBox="0 0 32 32"
-   height="32"
-   width="32"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="window.svg">
+   viewBox="0 0 22 22"
+   height="22"
+   width="22"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="window.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs858" />
   <sodipodi:namedview
@@ -21,27 +21,29 @@
      showguides="false"
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.9536984"
-     inkscape:cx="136.7665"
-     inkscape:cy="47.32842"
+     inkscape:cx="-27.252366"
+     inkscape:cy="8.9831873"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid1428"
        type="xygrid"
-       originx="4.4953642"
-       originy="30.361" />
+       originx="-92.800003"
+       originy="12.574" />
   </sodipodi:namedview>
   <metadata
      id="metadata861">
@@ -51,7 +53,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +60,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4.4953642,4.787)">
+     transform="translate(-92.800003,-13)">
     <g
        id="22-22-window-close"
        transform="translate(27.504636,5.213)">
@@ -147,160 +148,108 @@
       </g>
     </g>
     <g
-       id="path39-3"
-       transform="translate(92.8,13)">
+       id="window-unpin">
       <rect
-         y="0"
-         x="0"
+         y="13"
+         x="92.800003"
          height="22"
          width="22"
          id="rect930-7"
          style="fill:#00ffff;fill-opacity:0" />
-    </g>
-    <g
-       id="window-pin"
-       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)"
-       style="fill:#ff0000">
       <g
-         id="g9"
-         style="fill:#ff0000">
-        <g
-           id="_x35__24_"
-           style="fill:#ff0000">
-          <g
-             id="g6"
-             style="fill:#ff0000">
-            <path
-               d="m 40.6,212.34599 h 91.9 v 520.7 l 61.3,-61.3 v -459.4 h 570.4 v 0 l 42.161,-0.284 -0.161,44.984 v 567.8 H 376.8 l -56.4,61.3 h 485.8 v 91.9 c 0,16.9 13.7,30.60001 30.6,30.60001 16.9,0 30.6,-13.70001 30.6,-30.60001 v -91.9 h 92 c 16.9,0 30.6,-13.7 30.6,-30.6 0,-16.9 -13.7,-30.6 -30.6,-30.6 h -91.9 v -612.5 -61.3 H 193.7 V 59.245993 c 0,-16.9 -13.7,-30.6 -30.6,-30.6 -16.9,0 -30.6,13.7 -30.6,30.6 V 151.14599 H 40.6 c -16.9,0 -30.6,13.7 -30.6,30.6 0,16.9 13.7,30.6 30.6,30.6 z"
-               id="window-unpin"
-               sodipodi:nodetypes="sccccccccccccssscsssccccssscsss"
-               style="fill:#000000;fill-opacity:1" />
-          </g>
-        </g>
+         id="g6"
+         style="fill:#ff0000"
+         transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)">
+        <path
+           d="m -1147.1247,-544.8341 h 330.83985 v 1874.5203 l 220.68003,-220.6801 V -544.8341 H 1457.8357 v 0 l 151.7796,-1.0224 -0.5796,161.94243 V 1660.1662 H 63.195273 L -139.84472,1880.8463 H 1609.0357 v 330.84 c 0,60.84 49.32,110.1601 110.1601,110.1601 60.84,0 110.16,-49.3201 110.16,-110.1601 v -330.84 h 331.2 c 60.84,0 110.16,-49.3201 110.16,-110.1601 0,-60.84 -49.32,-110.16 -110.16,-110.16 h -330.84 V -544.4741 -765.15413 H -595.96482 v -330.84007 c 0,-60.84 -49.32001,-110.16 -110.16002,-110.16 -60.84001,0 -110.16001,49.32 -110.16001,110.16 v 330.84007 h -330.83985 c -60.84,0 -110.16,49.32001 -110.16,110.16002 0,60.84001 49.32,110.16001 110.16,110.16001 z"
+           id="path967"
+           sodipodi:nodetypes="sccccccccccccssscsssccccssscsss"
+           style="fill:#5599ff;fill-opacity:1;stroke-width:3.6" />
       </g>
-      <g
-         id="g11"
-         style="fill:#ff0000" />
-      <g
-         id="g13"
-         style="fill:#ff0000" />
-      <g
-         id="g15"
-         style="fill:#ff0000" />
-      <g
-         id="g17"
-         style="fill:#ff0000" />
-      <g
-         id="g19"
-         style="fill:#ff0000" />
-      <g
-         id="g21"
-         style="fill:#ff0000" />
-      <g
-         id="g23"
-         style="fill:#ff0000" />
-      <g
-         id="g25"
-         style="fill:#ff0000" />
-      <g
-         id="g27"
-         style="fill:#ff0000" />
-      <g
-         id="g29"
-         style="fill:#ff0000" />
-      <g
-         id="g31-3"
-         style="fill:#ff0000" />
-      <g
-         id="g33-6"
-         style="fill:#ff0000" />
-      <g
-         id="g35"
-         style="fill:#ff0000" />
-      <g
-         id="g37"
-         style="fill:#ff0000" />
-      <g
-         id="g39"
-         style="fill:#ff0000" />
     </g>
     <g
-       id="path39-3-7"
-       transform="translate(70.8,13)">
+       id="g11"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g13"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g15"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g17"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g19"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g21"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g23"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g25"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g27"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g29"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g31-3"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g33-6"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g35"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g37"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="g39"
+       style="fill:#ff0000"
+       transform="matrix(0.00510204,0,0,0.00510204,101.21472,21.153847)" />
+    <g
+       id="window-pin">
       <rect
-         y="0"
-         x="0"
+         y="13"
+         x="70.800003"
          height="22"
          width="22"
          id="rect930-7-5"
          style="fill:#00ffff;fill-opacity:0" />
-    </g>
-    <g
-       id="window-pin-3"
-       transform="matrix(0.00510204,0,0,0.00510204,79.258692,21.231075)"
-       style="fill:#ff0000">
       <g
-         id="g9-5"
-         style="fill:#ff0000">
+         id="_x35__24_-6"
+         style="fill:#ff0000"
+         transform="matrix(0.00510204,0,0,0.00510204,79.258692,21.231075)">
         <g
-           id="_x35__24_-6"
+           id="g6-2"
            style="fill:#ff0000">
-          <g
-             id="g6-2"
-             style="fill:#ff0000">
-            <path
-               d="m 40.6,197.2093 h 91.9 v 520.7 l 61.3,-61.3 v -459.4 h 570.4 v 0 l 42.161,-0.284 -0.161,44.984 v 567.8 H 376.8 l -56.4,61.3 h 485.8 v 91.9 c 0,16.9 13.7,30.6 30.6,30.6 16.9,0 30.6,-13.7 30.6,-30.6 v -91.9 h 92 c 16.9,0 30.6,-13.7 30.6,-30.6 0,-16.9 -13.7,-30.6 -30.6,-30.6 h -91.9 v -612.5 -61.3 H 193.7 V 44.109302 c 0,-16.9 -13.7,-30.6 -30.6,-30.6 -16.9,0 -30.6,13.7 -30.6,30.6 V 136.0093 H 40.6 c -16.9,0 -30.6,13.7 -30.6,30.6 0,16.9 13.7,30.6 30.6,30.6 z"
-               id="window-unpin-9"
-               sodipodi:nodetypes="sccccccccccccssscsssccccssscsss"
-               style="fill:#000000;fill-opacity:1" />
-          </g>
+          <path
+             d="m -1155.7438,-559.97077 h 330.8399 V 1314.5495 l 220.68004,-220.68 V -559.97077 H 1449.2166 v 0 l 151.7797,-1.0224 -0.5796,161.94243 V 1645.0296 H 54.576215 l -203.039985,220.68 H 1600.4167 v 330.84 c 0,60.8401 49.32,110.1601 110.16,110.1601 60.84,0 110.16,-49.32 110.16,-110.1601 v -330.84 h 331.2001 c 60.84,0 110.16,-49.32 110.16,-110.16 0,-60.84 -49.32,-110.16 -110.16,-110.16 H 1821.0967 V -559.61077 -780.2908 H -604.58386 v -330.8401 c 0,-60.84 -49.32001,-110.16 -110.16002,-110.16 -60.84001,0 -110.16002,49.32 -110.16002,110.16 v 330.8401 h -330.8399 c -60.84,0 -110.16,49.32 -110.16,110.16001 0,60.84001 49.32,110.16002 110.16,110.16002 z"
+             id="window-unpin-9"
+             sodipodi:nodetypes="sccccccccccccssscsssccccssscsss"
+             style="fill:#000000;fill-opacity:1;stroke-width:3.6" />
         </g>
       </g>
-      <g
-         id="g11-1"
-         style="fill:#ff0000" />
-      <g
-         id="g13-2"
-         style="fill:#ff0000" />
-      <g
-         id="g15-7"
-         style="fill:#ff0000" />
-      <g
-         id="g17-0"
-         style="fill:#ff0000" />
-      <g
-         id="g19-9"
-         style="fill:#ff0000" />
-      <g
-         id="g21-3"
-         style="fill:#ff0000" />
-      <g
-         id="g23-6"
-         style="fill:#ff0000" />
-      <g
-         id="g25-0"
-         style="fill:#ff0000" />
-      <g
-         id="g27-6"
-         style="fill:#ff0000" />
-      <g
-         id="g29-2"
-         style="fill:#ff0000" />
-      <g
-         id="g31-3-6"
-         style="fill:#ff0000" />
-      <g
-         id="g33-6-1"
-         style="fill:#ff0000" />
-      <g
-         id="g35-8"
-         style="fill:#ff0000" />
-      <g
-         id="g37-7"
-         style="fill:#ff0000" />
-      <g
-         id="g39-9"
-         style="fill:#ff0000" />
     </g>
   </g>
 </svg>
