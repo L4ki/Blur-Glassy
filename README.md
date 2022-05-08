@@ -409,6 +409,11 @@ Changelog: 01.05.2022.
 
 Update icons: window.svg, kteatime.svg
 
+Changelog: 08.05.2022.
+---------------------
+
+Update icons: akregator.svg, choqok_offline.svg
+
 
 
 
