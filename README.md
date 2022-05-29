@@ -424,6 +424,11 @@ Changelog: 22.05.2022.
 
 Update icon: klipper.svg
 
+Changelog: 29.05.2022.
+---------------------
+
+Update widget: tasks.svg
+
 
 
 
