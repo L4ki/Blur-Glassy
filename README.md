@@ -430,6 +430,12 @@ Changelog: 29.05.2022.
 Update widget: tasks.svg
 
 
+Changelog: 05.06.2022.
+---------------------
+
+Update icons: disk.svg, redshift.svg
+
+
 
 
 
