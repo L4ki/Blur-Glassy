@@ -444,8 +444,7 @@ Update icons: plasmavault, plasmavault_error, phone, utilities, wallet, choqok, 
 Changelog: 20.06.2022.
 ----------------------
 
-Update icons: konv_message, konversation
-
+Update icons: tauchpad, plasmavault, plasmavault_error, preferences
 
 
 
