@@ -446,6 +446,11 @@ Changelog: 20.06.2022.
 
 Update icons: tauchpad, plasmavault, plasmavault_error, preferences
 
+Changelog: 27.06.2022.
+----------------------
+
+Update icons: konv_message, konversation
+
 
 
 
