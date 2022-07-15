@@ -456,7 +456,12 @@ Changelog: 04.07.2022.
 
 Update icon: kdeconnect.svg
 
+Changelog: 15.07.2022.
+----------------------
 
+Update icon: cantata.svg
+
+Update widget: slider.svg
 
 
 
