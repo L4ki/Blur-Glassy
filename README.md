@@ -463,6 +463,11 @@ Update icon: cantata.svg
 
 Update widget: slider.svg
 
+Changelog: 24.07.2022.
+----------------------
+
+Update icon: video.svg
+
 
 
 
