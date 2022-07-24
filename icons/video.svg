@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="100%"
-   height="100%"
-   viewBox="0 0 22 22"
+   width="31.999998"
+   height="31.999958"
+   viewBox="0 0 31.999998 31.999958"
    id="svg"
    sodipodi:docname="video.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,17 +24,27 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1008"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="3.9389205"
-     inkscape:cx="34.958222"
-     inkscape:cy="-26.840308"
+     inkscape:zoom="7.877841"
+     inkscape:cx="16.819329"
+     inkscape:cy="24.245222"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid697"
+       originx="8.2519528e-07"
+       originy="34.011276" />
+  </sodipodi:namedview>
   <defs
      id="defs81">
     <style
@@ -49,13 +59,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="22-22-video-display-brightness"
-     transform="matrix(0.75000099,0,0,0.75000099,-289.42897,-387.59902)">
+     transform="matrix(0.75000099,0,0,0.75000099,-289.42897,-353.58774)">
     <rect
        style="opacity:0.01;fill:#00000f;fill-opacity:0.00392157;stroke:none"
        id="rect3074"
@@ -83,7 +92,7 @@
        class="ColorScheme-Text" />
   </g>
   <g
-     transform="matrix(1.09091,0,0,1.09091,-420.98739,-597.79142)"
+     transform="matrix(1.09091,0,0,1.09091,-420.98739,-563.78014)"
      id="video-display-brightness">
     <rect
        y="516.79803"
