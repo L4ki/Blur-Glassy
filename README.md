@@ -468,6 +468,11 @@ Changelog: 24.07.2022.
 
 Update icon: video.svg
 
+Changelog: 31.07.2022.
+----------------------
+
+Update widget: line.svg
+
 
 
 
