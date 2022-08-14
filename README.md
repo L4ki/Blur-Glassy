@@ -480,6 +480,14 @@ Changelog: 07.08.2022.
 Update widget: listitem.svg
 
 
+Changelog: 14.08.2022.
+----------------------
+
+Update widget: scrollbar.svg
+
+Added widget: calendar.svg
+
+
 
 
 
