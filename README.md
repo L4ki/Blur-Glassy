@@ -487,6 +487,12 @@ Update widget: scrollbar.svg
 
 Added widget: calendar.svg
 
+Changelog: 21.08.2022.
+----------------------
+
+Update widget: listitem
+
+
 
 
 
