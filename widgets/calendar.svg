@@ -50,7 +50,7 @@
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
@@ -3633,7 +3633,7 @@
          height="8"
          width="8"
          id="rect4696"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#147ab1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
