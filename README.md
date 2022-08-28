@@ -492,6 +492,10 @@ Changelog: 21.08.2022.
 
 Update widget: listitem
 
+Changelog: 28.08.2022.
+----------------------
+
+Update widget: calendar.svg
 
 
 
