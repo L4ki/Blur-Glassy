@@ -502,6 +502,11 @@ Changelog: 04.09.2022.
 
 Added icons: configure.svg, distribute.svg
 
+Changelog: 11.09.2022.
+----------------------
+
+Added icon: window.svg
+
 
 
 
