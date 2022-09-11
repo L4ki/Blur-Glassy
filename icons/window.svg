@@ -5,7 +5,7 @@
    viewBox="0 0 22 22"
    height="22"
    width="22"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="window.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,19 +26,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.9536984"
-     inkscape:cx="-27.252366"
-     inkscape:cy="8.9831873"
+     inkscape:cx="-27.3533"
+     inkscape:cy="9.1850566"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="grid1428"
        type="xygrid"
@@ -164,7 +165,7 @@
            d="m -1147.1247,-544.8341 h 330.83985 v 1874.5203 l 220.68003,-220.6801 V -544.8341 H 1457.8357 v 0 l 151.7796,-1.0224 -0.5796,161.94243 V 1660.1662 H 63.195273 L -139.84472,1880.8463 H 1609.0357 v 330.84 c 0,60.84 49.32,110.1601 110.1601,110.1601 60.84,0 110.16,-49.3201 110.16,-110.1601 v -330.84 h 331.2 c 60.84,0 110.16,-49.3201 110.16,-110.1601 0,-60.84 -49.32,-110.16 -110.16,-110.16 h -330.84 V -544.4741 -765.15413 H -595.96482 v -330.84007 c 0,-60.84 -49.32001,-110.16 -110.16002,-110.16 -60.84001,0 -110.16001,49.32 -110.16001,110.16 v 330.84007 h -330.83985 c -60.84,0 -110.16,49.32001 -110.16,110.16002 0,60.84001 49.32,110.16001 110.16,110.16001 z"
            id="path967"
            sodipodi:nodetypes="sccccccccccccssscsssccccssscsss"
-           style="fill:#5599ff;fill-opacity:1;stroke-width:3.6" />
+           style="fill:#147ab4;fill-opacity:1;stroke-width:3.6" />
       </g>
     </g>
     <g
