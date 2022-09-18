@@ -507,6 +507,11 @@ Changelog: 11.09.2022.
 
 Update icon: window.svg
 
+Changelog: 18.09.2022.
+----------------------
+
+Update widget: background.svg
+
 
 
 
