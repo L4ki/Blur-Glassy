@@ -524,6 +524,12 @@ Changelog: 02.10.2022.
 Added widgets: glowbar.svg, notes.svg
 
 
+Changelog: 09.10.2022.
+----------------------
+
+Added icons: emblem.svg, juk.svg, kdf.svg
+
+
 
 
 
