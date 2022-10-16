@@ -529,6 +529,13 @@ Changelog: 09.10.2022.
 
 Added icons: emblem.svg, juk.svg, kdf.svg
 
+Changelog: 16.10.2022.
+----------------------
+
+Update: background (dialogs)
+
+Added widget: timer.svg
+
 
 
 
