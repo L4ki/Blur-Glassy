@@ -536,6 +536,11 @@ Update: background (dialogs)
 
 Added widget: timer.svg
 
+Changelog: 23.10.2022.
+----------------------
+
+Update widget: scrollbar.svg
+
 
 
 
