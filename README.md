@@ -541,6 +541,11 @@ Changelog: 23.10.2022.
 
 Update widget: scrollbar.svg
 
+Changelog: 30.10.2022.
+----------------------
+
+Update widgets: bar_meter_vertical, bar_meter_horizontal
+
 
 
 
