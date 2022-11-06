@@ -546,6 +546,11 @@ Changelog: 30.10.2022.
 
 Update widgets: bar_meter_vertical, bar_meter_horizontal
 
+Changelog: 06.11.2022.
+----------------------
+
+Added icon: tools.svg
+
 
 
 
