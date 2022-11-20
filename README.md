@@ -556,6 +556,11 @@ Changelog: 13.11.2022.
 
 Added icon: kruler.svg, nulloy.svg
 
+Changelog: 20.11.2022.
+----------------------
+
+Added icons: knotes.svg, face.svg
+
 
 
 
