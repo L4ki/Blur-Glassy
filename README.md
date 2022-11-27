@@ -561,6 +561,10 @@ Changelog: 20.11.2022.
 
 Added icons: knotes.svg, face.svg
 
+Changelog: 27.11.2022.
+----------------------
+
+Added icons: krusader_user, krusader_root
 
 
 
