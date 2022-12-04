@@ -566,6 +566,14 @@ Changelog: 27.11.2022.
 
 Added icons: krusader_user, krusader_root
 
+Changelog: 04.12.2022.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: mellowplayer.svg
+
 
 
 
