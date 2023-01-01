@@ -600,6 +600,14 @@ Plasma Theme
 
 Added icons: internet.svg, jami.svg
 
+Changelog: 01.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: audio.svg
+
 
 
 
