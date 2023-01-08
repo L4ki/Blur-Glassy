@@ -608,6 +608,14 @@ Plasma Theme
 
 Added icon: audio.svg
 
+Changelog: 08.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: sirikali.svg
+
 
 
 
