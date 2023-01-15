@@ -649,6 +649,14 @@ Plasma Theme
 
 Added icon: sirikali.svg
 
+Changelog: 15.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: go.svg, mobile.svg
+
 
 
 
