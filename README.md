@@ -657,6 +657,14 @@ Plasma Theme
 
 Added icons: go.svg, mobile.svg
 
+Changelog: 22.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: cadence.svg, onboard.svg
+
 
 
 
