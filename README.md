@@ -665,6 +665,14 @@ Plasma Theme
 
 Added icons: cadence.svg, onboard.svg
 
+Changelog: 29.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: kgpg.svg, kleopatra.svg
+
 
 
 
