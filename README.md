@@ -673,6 +673,14 @@ Plasma Theme
 
 Added icons: kgpg.svg, kleopatra.svg
 
+Changelog: 05.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: kup.svg, list.svg
+
 
 
 
