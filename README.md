@@ -681,6 +681,14 @@ Plasma Theme
 
 Added icons: kup.svg, list.svg
 
+Changelog: 12.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: zoom.svg
+
 
 
 
