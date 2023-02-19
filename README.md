@@ -689,6 +689,14 @@ Plasma Theme
 
 Added icons: zoom.svg
 
+Changelog: 19.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: ring.svg
+
 
 
 
