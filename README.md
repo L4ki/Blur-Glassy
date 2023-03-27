@@ -730,6 +730,15 @@ Plasma Theme
 
 Added icon: corectrl.svg
 
+Changelog: 27.03.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: microphone.svg
+
+
 
 
 
