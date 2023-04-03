@@ -738,6 +738,14 @@ Plasma Theme
 
 Added icon: microphone.svg
 
+Changelog: 03.04.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: lutris.svg
+
 
 
 
