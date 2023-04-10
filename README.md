@@ -747,6 +747,15 @@ Plasma Theme
 Added icon: lutris.svg
 
 
+Changelog: 10.04.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: process.svg
+
+
 
 
 
