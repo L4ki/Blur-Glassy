@@ -755,6 +755,14 @@ Plasma Theme
 
 Added icon: process.svg
 
+Changelog: 17.04.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+update widget: viewitem.svg
+
 
 
 
