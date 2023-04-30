@@ -772,6 +772,15 @@ Plasma Theme
 update widget: tasks.svg
 
 
+Changelog: 01.05.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+update widget: listitem.svg
+
+
 
 
 
