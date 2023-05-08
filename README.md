@@ -780,6 +780,13 @@ Plasma Theme
 
 update widget: listitem.svg
 
+Changelog: 08.05.2023.
+---------------------
+
+Plasma Theme
+-------------
+Added icon: slc.svg
+
 
 
 
