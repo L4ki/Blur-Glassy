@@ -787,6 +787,13 @@ Plasma Theme
 -------------
 Added icon: slc.svg
 
+Changelog: 15.05.2023.
+---------------------
+
+Plasma Theme
+-------------
+Added: opaque, solid, translucent
+
 
 
 
