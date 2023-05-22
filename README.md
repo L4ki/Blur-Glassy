@@ -794,6 +794,14 @@ Plasma Theme
 -------------
 Added: opaque, solid, translucent
 
+Changelog: 22.05.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Update widget: tooltip.svg
+
 
 
 
