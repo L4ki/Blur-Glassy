@@ -803,7 +803,7 @@ Plasma Theme
 Update widget: tooltip.svg
 
 
-Changelog: 22.05.2023.
+Changelog: 29.05.2023.
 ---------------------
 
 Plasma Theme
