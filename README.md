@@ -811,6 +811,14 @@ Plasma Theme
 
 Update widget: plasmoidheading.svg
 
+Changelog: 05.06.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: keyboard.svg
+
 
 
 
