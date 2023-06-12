@@ -819,6 +819,14 @@ Plasma Theme
 
 Added icon: keyboard.svg
 
+Changelog: 12.06.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: accessories.svg
+
 
 
 
