@@ -827,6 +827,12 @@ Plasma Theme
 
 Added icon: accessories.svg
 
+Changelog: 19.06.2023.
+---------------------
 
+Plasma Theme
+-------------
+
+Update: metadata.desktop
 
 
