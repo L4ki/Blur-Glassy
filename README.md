@@ -835,4 +835,12 @@ Plasma Theme
 
 Update: metadata.desktop
 
+Changelog: 26.06.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: krfb.svg
+
 
