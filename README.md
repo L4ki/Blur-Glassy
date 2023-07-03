@@ -843,4 +843,12 @@ Plasma Theme
 
 Added icon: krfb.svg
 
+Changelog: 03.07.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added widget: analog_meter.svg
+
 
