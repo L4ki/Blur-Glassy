@@ -852,3 +852,12 @@ Plasma Theme
 Added widget: analog_meter.svg
 
 
+Changelog: 10.07.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: offline.svg
+
+
