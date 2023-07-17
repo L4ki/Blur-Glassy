@@ -861,3 +861,12 @@ Plasma Theme
 Added icon: offline.svg
 
 
+Changelog: 17.07.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: network.svg
+
+
