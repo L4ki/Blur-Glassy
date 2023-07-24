@@ -870,3 +870,12 @@ Plasma Theme
 Added icon: network.svg
 
 
+Changelog: 24.07.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added widget: radiobutton.svg
+
+
