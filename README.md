@@ -879,3 +879,12 @@ Plasma Theme
 Added widget: radiobutton.svg
 
 
+Changelog: 24.07.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: quota.svg
+
+
