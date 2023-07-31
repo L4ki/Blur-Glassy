@@ -885,6 +885,6 @@ Changelog: 31.07.2023.
 Plasma Themes
 -------------
 
-Added widget: quota.svg
+Added icon: quota.svg
 
 
