@@ -887,4 +887,12 @@ Plasma Themes
 
 Added icon: quota.svg
 
+Changelog: 07.08.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: monitor.svg
+
 
