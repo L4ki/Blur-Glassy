@@ -895,4 +895,12 @@ Plasma Themes
 
 Added widget: monitor.svg
 
+Changelog: 14.08.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: picker.svg
+
 
