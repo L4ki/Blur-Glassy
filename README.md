@@ -903,4 +903,12 @@ Plasma Themes
 
 Added widget: picker.svg
 
+Changelog: 21.08.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: dragger.svg
+
 
