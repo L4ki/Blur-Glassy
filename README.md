@@ -912,3 +912,12 @@ Plasma Themes
 Added widget: dragger.svg
 
 
+Changelog: 28.08.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: frame.svg
+
+
