@@ -926,6 +926,6 @@ Changelog: 04.09.2023.
 Plasma Themes
 -------------
 
-Added icons: image.svg
+Added icon: image.svg
 
 
