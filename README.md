@@ -928,4 +928,12 @@ Plasma Themes
 
 Added icon: image.svg
 
+Changelog: 11.09.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added: wind-arrows.svg
+
 
