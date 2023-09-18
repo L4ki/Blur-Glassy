@@ -936,4 +936,10 @@ Plasma Themes
 
 Added: wind-arrows.svg
 
+Changelog: 18.09.2023.
+---------------------
 
+Plasma Themes
+-------------
+
+Added widget: arrows.svg
