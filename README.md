@@ -943,3 +943,11 @@ Plasma Themes
 -------------
 
 Added widget: arrows.svg
+
+Changelog: 25.09.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: switch.svg
