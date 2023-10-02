@@ -951,3 +951,11 @@ Plasma Themes
 -------------
 
 Added widget: switch.svg
+
+Changelog: 02.10.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: configuration-iconssvg
