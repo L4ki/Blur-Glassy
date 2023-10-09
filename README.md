@@ -959,3 +959,11 @@ Plasma Themes
 -------------
 
 Added widget: configuration-iconssvg
+
+Changelog: 09.10.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: translucentbackground.svg
