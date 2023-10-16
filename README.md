@@ -967,3 +967,11 @@ Plasma Themes
 -------------
 
 Added widget: translucentbackground.svg
+
+Changelog: 16.10.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Update widget: line.svg
