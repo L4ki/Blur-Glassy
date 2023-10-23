@@ -975,3 +975,11 @@ Plasma Themes
 -------------
 
 Update widget: line.svg
+
+Changelog: 23.10.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icon: transform.svg
