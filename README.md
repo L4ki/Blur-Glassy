@@ -983,3 +983,13 @@ Plasma Themes
 -------------
 
 Added icon: transform.svg
+
+
+Changelog: 30.10.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: margins-highlight.svg
+
