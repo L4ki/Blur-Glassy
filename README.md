@@ -993,3 +993,12 @@ Plasma Themes
 
 Added widget: margins-highlight.svg
 
+
+Changelog: 06.11.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icon: search.svg
+
