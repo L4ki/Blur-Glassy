@@ -1002,3 +1002,11 @@ Plasma Themes
 
 Added icon: search.svg
 
+
+Changelog: 20.11.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icon: strawberry.svg
