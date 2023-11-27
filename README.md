@@ -1010,3 +1010,12 @@ Plasma Themes
 -------------
 
 Added icon: strawberry.svg
+
+
+Changelog: 27.11.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icon: start.svg
