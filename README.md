@@ -1019,3 +1019,12 @@ Plasma Themes
 -------------
 
 Added icon: start.svg
+
+Changelog: 04.12.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Update widget: bar_meter_horizontal.svg
+
