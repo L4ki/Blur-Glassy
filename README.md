@@ -1028,3 +1028,11 @@ Plasma Themes
 
 Update widget: bar_meter_horizontal.svg
 
+Changelog: 11.12.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icon: telegram.svg
+
