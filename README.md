@@ -1044,4 +1044,12 @@ Plasma Themes
 
 Added widget: plot-background.svg
 
+Changelog: 25.12.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icons: ime.svg, fcitx.svg
+
 
