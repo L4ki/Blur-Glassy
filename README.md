@@ -1052,4 +1052,12 @@ Plasma Themes
 
 Added icons: ime.svg, fcitx.svg
 
+Changelog: 01.01.2024.
+---------------------
+
+Plasma Themes
+-------------
+
+Update widget: switch.svg
+
 
