@@ -1060,4 +1060,12 @@ Plasma Themes
 
 Update widget: switch.svg
 
+Changelog: 09.01.2024.
+---------------------
+
+Plasma Themes
+-------------
+
+Update widget: radiobutton.svg
+
 
