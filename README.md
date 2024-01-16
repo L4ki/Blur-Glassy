@@ -1068,4 +1068,12 @@ Plasma Themes
 
 Update widget: radiobutton.svg
 
+Changelog: 16.01.2024.
+---------------------
+
+Plasma Themes
+-------------
+
+Added widget: media-delegate.svg
+
 
