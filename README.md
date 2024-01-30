@@ -42,6 +42,6 @@ Changelog: 30.01.2024.
 Plasma Themes
 -------------
 
-Added icon: veracript.svg
+Added icon: veracrypt.svg
 
 
