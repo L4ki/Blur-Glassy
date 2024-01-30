@@ -34,12 +34,12 @@ Screenshots:
 ![Screenshot_20221126_221733](https://user-images.githubusercontent.com/45247573/211203713-d03751e8-6e1f-4167-a6c0-0ad1b52ae213.png)
 
 
-Changelog: 23.01.2024.
+Changelog: 30.01.2024.
 ---------------------
 
 Plasma Themes
 -------------
 
-Added icon: solaar.svg
+Added icon: veracript.svg
 
 
