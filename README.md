@@ -41,3 +41,8 @@ Changelog: 11.03.2024.
 
 Update icon: network.svg
 
+Changelog: 17.03.24.
+--------------------
+
+Added Global Theme and Aurorae Themes for Plasma 6
+
