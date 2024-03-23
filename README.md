@@ -24,7 +24,7 @@ Screenshots:
 ------------
 
 ![Screenshot_20220821_151827](https://user-images.githubusercontent.com/45247573/211203683-14eb6720-d657-438b-9a85-ba68716f3ae8.jpg)
-
+U
 ![Screenshot_20220821_152038](https://user-images.githubusercontent.com/45247573/211203688-d9e111f1-ca84-409b-a5e8-9929ab022943.jpg)
 
 ![Screenshot_20220821_152429](https://user-images.githubusercontent.com/45247573/211203693-ed8de808-7357-49eb-8f32-4c03f0fae119.jpg)
@@ -36,13 +36,18 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 11.03.2024.
+Changelog: 23.03.2024.
 ---------------------
 
-Update icon: network.svg
+Plasma Themes
+--------------
 
-Changelog: 17.03.24.
---------------------
+Update widget: tasks.svg
 
-Added Global Theme and Aurorae Themes for Plasma 6
+Aurorar Themes
+--------------
+
+Update: rc file
+
+
 
