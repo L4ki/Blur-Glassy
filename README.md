@@ -44,7 +44,7 @@ Plasma Themes
 
 Update widget: tasks.svg
 
-Aurorar Themes
+Aurorae Themes
 --------------
 
 Update: rc file
