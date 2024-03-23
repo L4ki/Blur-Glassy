@@ -9,7 +9,7 @@ TextShadowOffsetY=1
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 UseTextShadow=true
-Animation=0
+Animation=
 
 [Layout]
 BorderTop=4
