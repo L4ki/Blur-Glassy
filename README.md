@@ -50,4 +50,18 @@ Aurorae Themes
 Update: rc file
 
 
+Changelog: 30.03.2024.
+---------------------
+
+Plasma Themes
+--------------
+
+Update widget: arrows.svg
+
+Aurorae Themes
+--------------
+
+Update: metadata.desktop
+
+
 
