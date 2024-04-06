@@ -36,32 +36,18 @@ U
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 23.03.2024.
+Changelog: 07.04.2024.
 ---------------------
 
 Plasma Themes
 --------------
 
-Update widget: tasks.svg
+Update widget: clock.svg
 
 Aurorae Themes
 --------------
 
-Update: rc file
-
-
-Changelog: 30.03.2024.
----------------------
-
-Plasma Themes
---------------
-
-Update widget: arrows.svg
-
-Aurorae Themes
---------------
-
-Update: metadata.desktop
+Update: close.svg
 
 
 
