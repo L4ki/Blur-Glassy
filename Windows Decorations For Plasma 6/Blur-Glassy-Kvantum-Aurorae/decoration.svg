@@ -4,7 +4,7 @@
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -25,19 +25,19 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#0d0d0d"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="37.476659"
-     inkscape:cy="511.2382"
+     inkscape:cx="255.97266"
+     inkscape:cy="276.47875"
      inkscape:current-layer="g62389"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -58,17 +58,22 @@
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid2555"
        enabled="true"
-       visible="true"
+       visible="false"
        empspacing="5"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
