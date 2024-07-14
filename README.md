@@ -36,13 +36,13 @@ U
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 07.07.2024.
+Changelog: 14.07.2024.
 ---------------------
 
 Plasma Themes
 --------------
 
-Update widget: bar_meter_vertical.svg
+Update widget: configuration-icons.svg
 
 Aurorae Themes
 --------------
