@@ -6,7 +6,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="containment-controls.svg"
    version="1.0"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
@@ -30,7 +30,7 @@
      inkscape:snap-nodes="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1013"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      showgrid="false"
      height="128px"
@@ -50,8 +50,9 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="true">
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        id="GridFromPre046Settings"
@@ -65,8 +66,9 @@
        opacity="0.01960784"
        empopacity="0.03921569"
        empspacing="2"
-       visible="true"
-       enabled="true" />
+       visible="false"
+       enabled="true"
+       units="px" />
     <sodipodi:guide
        inkscape:locked="true"
        id="guide5546"
