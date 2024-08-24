@@ -36,13 +36,13 @@ U
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 18.08.2024.
+Changelog: 25.08.2024.
 ---------------------
 
 Plasma Themes
 --------------
 
-Update widget: containment-controls.svg
+Update widget: panel-background.svg
 
 Aurorae Themes
 --------------
