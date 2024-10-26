@@ -36,13 +36,13 @@ U
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 20.10.2024.
+Changelog: 27.10.2024.
 ---------------------
 
 Plasma Themes
 --------------
 
-Update widget: translucentbackground.svg
+Update widget: frame.svg
 
 Aurorae Themes
 --------------
