@@ -5,7 +5,7 @@
    viewBox="0 0 50 50"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="frame.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -16,7 +16,8 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-View-Background { stop-color:#24273a;    color:#24273a; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-View-Background { stop-color:#24273a;    color:#24273a; }
+</style>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6284625"
-     inkscape:cx="22.030883"
-     inkscape:cy="17.678007"
+     inkscape:zoom="7.959848"
+     inkscape:cx="24.246694"
+     inkscape:cy="41.144002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +47,7 @@
      inkscape:bbox-nodes="true"
      inkscape:document-rotation="0"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4152"
