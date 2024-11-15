@@ -5,7 +5,7 @@
    viewBox="0 0 35.983333 35.983334"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="busywidget.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99901446"
-     inkscape:cx="67.066096"
-     inkscape:cy="51.550805"
+     inkscape:cx="66.565603"
+     inkscape:cy="52.051299"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,18 +49,20 @@
      showguides="false"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4160"
        empspacing="2"
        originx="0"
        originy="0"
-       visible="true"
+       visible="false"
        enabled="true"
        snapvisiblegridlinesonly="true"
        spacingx="1"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
     <sodipodi:guide
        position="-5.8455811e-08,35.983344"
        orientation="136.00001,0"
@@ -195,7 +197,7 @@
          id="path3018"
          transform="matrix(0.26458334,0,0,0.26458334,-0.52916714,249.37498)"
          d="m 207,7 a 60.999998,61.000013 0 0 0 -61,61 60.999998,61.000013 0 0 0 52.5,60.34375 60.999998,61.000013 0 0 0 0.0625,0 60.999998,61.000013 0 0 0 0.125,0.0313 60.999998,61.000013 0 0 0 3.46875,0.40625 60.999998,61.000013 0 0 0 1.34375,0.0937 60.999998,61.000013 0 0 0 0.0313,0 c 0.15685,0.009 0.31182,0.0232 0.46875,0.0313 A 60.999998,61.000013 0 0 0 207,129 c 0.15564,-7.2e-4 0.31314,-0.0292 0.46875,-0.0313 a 60.999998,61.000013 0 0 0 4.1875,-0.21875 c 0.20839,-0.0188 0.41684,-0.0101 0.625,-0.0313 12.83843,-1.3057 25.21151,-7.11778 34.34375,-16.25 10.43684,-10.43683 16.49999,-25.115076 16.5,-39.875 0,-5.534972 -0.85031,-11.052726 -2.46875,-16.34375 A 54.99999,55.000005 0 0 1 262,68 54.99999,55.000005 0 0 1 207,123 54.99999,55.000002 0 0 1 152,68 54.99999,55.000002 0 0 1 154.46875,51.75 54.99999,55.000002 0 0 1 207,13 h 1 c 1.10799,0 2,-0.892032 2,-2 V 9 c 0,-1.1079685 -0.89201,-2 -2,-2 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="22-22-busywidget">
