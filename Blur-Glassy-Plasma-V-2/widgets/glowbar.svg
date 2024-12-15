@@ -6,7 +6,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="glowbar.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      id="namedview100"
      showgrid="false"
      inkscape:lockguides="false"
@@ -37,8 +37,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc" />
   <defs
      id="defs4">
     <linearGradient
