@@ -6,7 +6,7 @@
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
@@ -27,7 +27,7 @@
      inkscape:snap-nodes="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1007"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      showgrid="false"
      height="128px"
@@ -35,7 +35,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="81.617258"
-     inkscape:cx="61.401872"
+     inkscape:cx="61.212944"
      inkscape:zoom="2.6464991"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -43,12 +43,13 @@
      guidetolerance="10"
      gridtolerance="10000"
      borderopacity="1"
-     bordercolor="#000000"
+     bordercolor="#030303"
      pagecolor="#eff0f1"
      id="base"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="true">
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        id="GridFromPre046Settings"
@@ -59,11 +60,12 @@
        spacingy="1"
        color="#0000ff"
        empcolor="#0000ff"
-       opacity="0.01960784"
+       opacity="0.0196078"
        empopacity="0.03921569"
        empspacing="2"
-       visible="true"
-       enabled="true" />
+       visible="false"
+       enabled="true"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs4">
