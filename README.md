@@ -42,7 +42,7 @@ Changelog: 14.04.2025.
 Plasma Themes
 --------------
 
-Update:metadata.desktop
+Update: metadata.desktop
 
 
 
